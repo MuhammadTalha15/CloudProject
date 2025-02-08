@@ -1,0 +1,13 @@
+:root {
+    --white-color: #FEFEFE;
+    --light: #667085;
+    --lighter: #4E576A;
+    --dark: #363C48;
+    --darker: #0A0E15;
+}
+
+.sec{
+    height: calc(100vh - 7vh);
+    width: calc(100% - 20vmax);
+    border: 1px solid;
+}

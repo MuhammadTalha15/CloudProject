@@ -1,0 +1,26 @@
+:root {
+    --white-color: #FEFEFE;
+    --light: #667085;
+    --lighter: #4E576A;
+    --dark: #363C48;
+    --darker: #0A0E15;
+}
+
+.hd{
+    height: 7vh;
+    width: 100%;
+    background-color: var(--dark);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dte-cnt{
+    height: 90%;
+    width: auto;
+    display: flex;
+    align-items: center;
+    font-size: 1vmax;
+    font-family: sans-serif;
+    color: var(--white-color);
+}
